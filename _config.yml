@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yanfang"
-description              : "Incoming PhD student at CUHK CSE. "
-repository               : "yf0812/fancyliu.github.io"
+description              : "25Fall Ph.D. Student"
+repository               : "yf0812/yf0812.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘艳芳 Yanfang Liu"
   avatar           : "images/lyf.JPG"
-  bio              : "Beihang University"
-  location         : "Beijing, China"
+  bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
+  location         : "Sha Tin, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=67TW5L8AAAAJ&hl=zh-CN"
