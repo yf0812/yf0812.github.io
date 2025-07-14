@@ -25,8 +25,8 @@ author:
   avatar           : "images/lyf.JPG"
   # bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
   bio: |
-     "[The Chinese University of Hong Kong](https://www.cuhk.edu.hk/)" 
-     "[Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/)"
+    <a href="https://www.cuhk.edu.hk/" target="_blank">The Chinese University of Hong Kong</a><br>
+    <a href="https://www.cse.cuhk.edu.hk/" target="_blank">Department of Computer Science and Engineering</a><br>
   location         : "Sha Tin, Hong Kong"
   employer         :
   pubmed           : 
