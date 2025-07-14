@@ -23,7 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘艳芳 Yanfang Liu"
   avatar           : "images/lyf.JPG"
-  bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
+  # bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
+  bio: |
+    [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/)  
+    [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/)
   location         : "Sha Tin, Hong Kong"
   employer         :
   pubmed           : 
