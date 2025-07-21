@@ -112,10 +112,10 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
   </a> -->
-  <a href="_pages/paper/DATE2024.bib" style="text-decoration: none;">
+  <a href="_pages/paper/DATE2025.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
   </a>
 </div>
 
