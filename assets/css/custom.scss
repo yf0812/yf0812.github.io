@@ -7,14 +7,14 @@
 
 // 然后写自定义规则
 html {
-  font-size: 18px;
+  font-size: 20px;
   
   @media (max-width: 768px) {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
 // 代码块特殊处理
 pre, code {
-  font-size: 0.9em !important;
+  font-size: 1em !important;
 }
