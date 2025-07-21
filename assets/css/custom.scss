@@ -1,0 +1,20 @@
+---
+# 必须保留 Front Matter
+---
+
+// 正确导入方式（顶部独立声明）
+@import "main";  // 不带.scss后缀
+
+// 然后写自定义规则
+html {
+  font-size: 18px;
+  
+  @media (max-width: 768px) {
+    font-size: 16px;
+  }
+}
+
+// 代码块特殊处理
+pre, code {
+  font-size: 0.9em !important;
+}
