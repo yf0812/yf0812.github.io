@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanfang"
-description              : "25Fall Ph.D. Student"
+# description              : "👩🏻‍🎓 25Fall Ph.D. Student"
 repository               : "yf0812/yf0812.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "刘艳芳 Yanfang Liu"
   avatar           : "images/lyf.JPG"
   # bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
-  bio: |
+  bio: |"👩🏻‍🎓 25Fall Ph.D. Student"
     <a href="https://www.cuhk.edu.hk/" target="_blank">The Chinese University of Hong Kong</a><br>
     <a href="https://www.cse.cuhk.edu.hk/" target="_blank">Department of Computer Science and Engineering</a><br>
   location         : "Sha Tin, Hong Kong"

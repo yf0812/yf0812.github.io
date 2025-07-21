@@ -19,7 +19,9 @@ redirect_from:
 
 # ✨ About me
 
-Yanfang Liu is currently a master's student at the School of Integrated Circuits Science and Engineering at Beihang University. Her research focuses on AI for EDA, rare event statistical modeling and analysis, and applications related to Bayesian optimization.
+Yanfang LIU is currently a Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), starting Fall 2025, under the supervision of Professor [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/). 
+<!-- Her research focuses on [briefly state your research area, e.g., "computer-aided design for integrated circuits" or "algorithmic optimization in electronic design automation"]. -->
+Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science and Engineering from Beihang University (BUAA), where she conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/).
 
 <div style="margin-top: 10px;">
   <a href="your-cv-link.pdf" style="text-decoration: none;">
