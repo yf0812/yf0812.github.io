@@ -66,9 +66,6 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
 
 </div>
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
@@ -100,7 +97,7 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
 
 - [1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://github.com), **Yanfang Liu**, Wei W. Xing
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="date-2025.pdf" style="text-decoration: none;">
+  <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
@@ -115,7 +112,7 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
   </a> -->
-  <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
+  <a href="_pages/paper/DATE2024.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
