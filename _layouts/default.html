@@ -7,7 +7,25 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <link rel="stylesheet" href="{{ '/assets/css/custom.scss' | relative_url }}">
+    <!-- <link rel="stylesheet" href="{{ '/assets/css/custom.scss' | relative_url }}"> -->
+     <style>
+  /* 全局字体放大 */
+  html {
+    font-size: 20px !important; /* 基准字号 */
+  }
+  
+  /* 移动端适配 */
+  @media (max-width: 768px) {
+    html {
+      font-size: 16px !important;
+    }
+  }
+  
+  /* 修正特殊元素 */
+  code, pre {
+    font-size: 0.9em !important;
+  }
+</style>
   </head>
 
   <body>
