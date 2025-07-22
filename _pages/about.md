@@ -37,7 +37,7 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
 - **Rare Event Analysis**  
 
 ## Education  
-- **PhD Artificial Intelligence**  
+- **PhD Computer Science and Engineering**  
   *Stanford University*  
 - **MEng Electronic Information**  
   *Beihang University*  
@@ -58,7 +58,7 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
   <div style="flex: 1; margin-left: 1px;">
     <h2>🎓 Education</h2>
     <ul>
-      <li><strong>PhD Artificial Intelligence</strong><br><em>The Chinese University of Hong Kong</em></li>
+      <li><strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em></li>
       <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
       <li><strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em></li>
     </ul>
