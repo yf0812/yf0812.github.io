@@ -19,9 +19,9 @@ redirect_from:
 
 # ✨ About me
 
-Yanfang LIU is currently a Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), starting Fall 2025, under the supervision of [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/). 
+Yanfang LIU is currently a Ph.D. candidate in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), starting Fall 2025, under the supervision of [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/). 
 <!-- Her research focuses on [briefly state your research area, e.g., "computer-aided design for integrated circuits" or "algorithmic optimization in electronic design automation"]. -->
-Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science and Engineering from Beihang University (BUAA), where she conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/).
+Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science and Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where she conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/).
 
 <div style="margin-top: 10px;">
   <a href="your-cv-link.pdf" style="text-decoration: none;">
