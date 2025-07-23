@@ -234,7 +234,7 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
   </div>
 </div> -->
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards (Selected)
 - *2024.10* National Scholarship (Master). 
 - *2023.10* National Scholarship (Master) (Top 1%). 
 - *2020.10* National Scholarship (Undergraduate) (Top 1%). 
@@ -257,9 +257,9 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2025.02 - 2025.07*, The Chinese University of Hong Kong (Shenzhen), China.
