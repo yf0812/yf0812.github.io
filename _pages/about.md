@@ -261,5 +261,9 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2025.02 - 2025.07*, The Chinese University of Hong Kong (Shenzhen), China.
+# 💻 Experiences
+## The Chinese University of Hong Kong (Shenzhen)
+- *2025.02 - 2025.07*, Research Assistant, supervised by [Prof. Tinghuan Chen](https://mypage.cuhk.edu.cn/academics/chentinghuan/)
+
+## Peer Reviewer
+- *2025-* TODAES
