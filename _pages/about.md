@@ -228,7 +228,7 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
   </a>
 </div>
 
-## Journal Paper 👇
+<!-- ## Journal Paper 👇 -->
 
 <!-- <div style="display: flex; align-items: center;">
   <div class="badge">CVPR 2016</div>
