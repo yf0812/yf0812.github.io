@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), starting Fall 2025, under the supervision of [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/) and [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/). 
 <!-- Her research focuses on [briefly state your research area, e.g., "computer-aided design for integrated circuits" or "algorithmic optimization in electronic design automation"]. -->
-Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science and Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where she conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/) and [Prof. Yue Zhang](https://shi.buaa.edu.cn/yuezhang/zh_CN/index.htm).
+Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science and Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/) and [Prof. Yue Zhang](https://shi.buaa.edu.cn/yuezhang/zh_CN/index.htm).
 
 <div style="margin-top: 10px;">
   <a href="your-cv-link.pdf" style="text-decoration: none;">
@@ -51,7 +51,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
     <ul>
       <li><strong>Artificial Intelligence</strong></li>
       <li><strong>Electronic Design Automation (EDA)</strong></li>
-      <li><strong>Rare Event Analysis</strong></li>
+      <li><strong>Statistical Machine Learning</strong></li>
     </ul>
   </div>
 
