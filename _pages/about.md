@@ -185,7 +185,7 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
   </a>
 </div>
 
-- [C5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), **Yanfang Liu**, Guohao Dai, Wei W. Xing
+- [C5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), **Yanfang Liu**, Guohao Dai, Wei W. Xing. 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -204,7 +204,7 @@ Prior to joining CUHK, she earned her M.S. degree in Integrated Circuit Science 
   </a>
 </div>
 
-- [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He. 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023.
+- [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), Wei W. Xing, **Yanfang Liu**, Weijian Fan, Lei He. In Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC '24). Association for Computing Machinery, New York, NY, USA.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
