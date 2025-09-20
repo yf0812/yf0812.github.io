@@ -239,7 +239,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </div>
 </div> -->
 
-# 🎖 Honors and Awards (Selected)
+# 🎖 Selected Honors and Awards
 - *2024.10* National Scholarship (Master). 
 - *2023.10* National Scholarship (Master) (Top 1%). 
 - *2020.10* National Scholarship (Undergraduate) (Top 1%). 
