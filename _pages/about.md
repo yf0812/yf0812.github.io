@@ -49,9 +49,9 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <div style="flex: 1; margin-right: 1px;">
     <h2>🔮 Research Interests</h2>
     <ul>
-      <li><strong>Artificial Intelligence</strong></li>
       <li><strong>Electronic Design Automation (EDA)</strong></li>
-      <li><strong>Statistical Machine Learning</strong></li>
+      <li><strong>Design Space Exploration (DSE)</strong></li>
+      <li><strong>Uncertainty Quantification</strong></li>
     </ul>
   </div>
 
