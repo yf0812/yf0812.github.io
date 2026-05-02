@@ -95,6 +95,8 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 </div>
 </div> -->
 
+- [C7] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification, International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026.
+
 - [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://ieeexplore.ieee.org/abstract/document/10993100), 2025 Design, Automation & Test in Europe Conference (DATE), Lyon, France, 2025.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;">
