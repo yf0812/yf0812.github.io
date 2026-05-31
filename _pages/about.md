@@ -98,7 +98,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 - [C7] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification, International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;">
+  <a href="_pages/paper/ICML2026.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
