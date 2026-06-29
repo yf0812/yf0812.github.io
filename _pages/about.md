@@ -24,7 +24,7 @@ I am currently a Ph.D. candidate in Computer Science and Engineering at [The Chi
 Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science and Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/) and [Prof. Yue Zhang](https://shi.buaa.edu.cn/yuezhang/zh_CN/index.htm).
 
 <div style="margin-top: 10px;">
-  <a href="your-cv-link.pdf" style="text-decoration: none;">
+  <a href="/cv/Yanfang_CV.pdf" style="text-decoration: none;">
     <button style="background-color: #333333; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 14px;">
       📄 Download CV
     </button>
