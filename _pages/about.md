@@ -103,6 +103,11 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
+  <a href="_pages/paper/ICML2026Poster.pdf" style="text-decoration: none;">
+    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
+      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Poster</button>
+  </a>
 </div>
 
 - [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://ieeexplore.ieee.org/abstract/document/10993100), 2025 Design, Automation & Test in Europe Conference (DATE), Lyon, France, 2025.
