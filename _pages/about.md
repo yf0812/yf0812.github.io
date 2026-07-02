@@ -101,7 +101,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <a href="_pages/paper/ICML2026.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
   </a>
   <a href="_pages/paper/ICML2026Poster.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -115,7 +115,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
   </a>
   <!-- <a href="your-citation-link.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -153,7 +153,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <a href="_pages/paper/ICCAD2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
   </a>
   <a href="_pages/paper/ICCAD2024.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -172,7 +172,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <a href="_pages/paper/ASP-DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
   </a>
   <a href="_pages/paper/ASP-DAC2024.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -191,7 +191,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <a href="_pages/paper/ICCAD2023.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
   </a>
   <a href="_pages/paper/ICCAD2023.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -210,7 +210,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
   </a>
   <a href="_pages/paper/DAC2023.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -229,7 +229,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <a href="_pages/paper/DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
   </a>
   <a href="_pages/paper/DAC2024.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
