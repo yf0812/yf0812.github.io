@@ -69,6 +69,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 One paper has been accepted by ICCAD 2026!
 - *2026.05*: &nbsp;🎉 One paper has been accepted by ICML 2026!
 - *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB)
 - *2024.11*: &nbsp;🎉 One paper has been accepted by DATE 2025!
@@ -95,6 +96,8 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+- [C8] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2026</span> **<u>Yanfang Liu</u>**, Zijin Cheng, Mingjun Wang, Rongliang Fu, Chao Wang, Bei Yu. LibPilot: Knowledge-Constrained Dual-Agent Reasoning for Standard Cell Library Tuning, International Conference on Computer Aided Design (ICCAD), San Jose, California, USA, Nov. 8–12, 2026.
 
 - [C7] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification, International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
