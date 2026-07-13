@@ -69,21 +69,22 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉 One paper has been accepted by ICCAD 2026!
-- *2026.05*: &nbsp;🎉 One paper has been accepted by ICML 2026!
+- *2026.07*: &nbsp;🎉 LibPilot has been accepted by ICCAD 2026!
+- *2026.05*: &nbsp;🎉 AnalogVerifier has been accepted by ICML 2026!
 - *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB)
-- *2024.11*: &nbsp;🎉 One paper has been accepted by DATE 2025!
+- *2024.11*: &nbsp;🎉 FUSIS paper has been accepted by DATE 2025!
 - *2024.09*: &nbsp;🎯 I will pursue a PhD in Computer Science and Engineering (CSE) at CUHK in August next year!
-- *2024.06*: &nbsp;🎉 One paper has been accepted by ICCAD 2024!
-- *2024.02*: &nbsp;🎉 One paper has been accepted by DAC 2024!
-- *2023.09*: &nbsp;🎉 One paper has been accepted by ASP-DAC 2024!
-- *2023.07*: &nbsp;🎉 One paper has been accepted by ICCAD 2023!
-- *2023.02*: &nbsp;🎉 One paper has been accepted by DAC 2023!
+- *2024.06*: &nbsp;🎉 VIS has been accepted by ICCAD 2024!
+- *2024.02*: &nbsp;🎉 EFAIL has been accepted by DAC 2024!
+- *2023.09*: &nbsp;🎉 CIS has been accepted by ASP-DAC 2024!
+- *2023.11*: &nbsp;🎉✨ OPT get Best Paper Nomination Award!!
+- *2023.07*: &nbsp;🎉 OPT has been accepted by ICCAD 2023!
+- *2023.02*: &nbsp;🎉 OPTIMIS has been accepted by DAC 2023!
 
 
 # 📝 Publications 
 
-## Conference Paper 👇
+## Conference Paper
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
