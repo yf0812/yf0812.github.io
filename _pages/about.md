@@ -197,6 +197,11 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
   </a>
+  <a href="_pages/paper/best_paper_nomination.png" style="text-decoration: none;">
+    <button style="border: 1px solid #d9534f; color: #ffffff; background-color: #d9534f; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
+      onmouseover="this.style.backgroundColor='#c9302c'; this.style.color='white';"
+      onmouseout="this.style.backgroundColor='#d9534f'; this.style.color='white';">BPN Award</button>
+  </a>
   <a href="_pages/paper/ICCAD2023.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
