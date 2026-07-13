@@ -26,8 +26,7 @@ author:
   # bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
   bio: |
 
-    <a href="https://www.cuhk.edu.hk/" target="_blank">The Chinese University of Hong Kong</a><br> 
-    <a href="https://www.cse.cuhk.edu.hk/" target="_blank">Department of Computer Science and Engineering</a><br>
+    <a href="https://www.cse.cuhk.edu.hk/" target="_blank">CUHK CSE</a><br>
   location         : "Sha Tin, Hong Kong"
   employer         :
   pubmed           : 
