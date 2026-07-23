@@ -44,9 +44,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - **BSc Artificial Intelligence**  
   *University of Jinan* -->
 
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-
-  <div style="flex: 1; margin-right: 1px;">
+  <div style="margin-top: 20px;">
     <h2>🔮 Research Interests</h2>
     <ul>
       <li><strong>Electronic Design Automation (EDA)</strong></li>
@@ -54,17 +52,6 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
       <li><strong>Statistical Machine Learning</strong></li>
     </ul>
   </div>
-
-  <div style="flex: 1; margin-left: 1px;">
-    <h2>🎓 Education</h2>
-    <ul>
-      <li><strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em></li>
-      <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
-      <li><strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em></li>
-    </ul>
-  </div>
-
-</div>
 
 
 
@@ -251,6 +238,11 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
   </a>
 </div>
+
+## 🎓 Education
+- <strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em>
+- <strong>MEng Electronic Information</strong><br><em>Beihang University</em>
+- <strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em>
 
 <!-- ## Journal Paper 👇 -->
 
