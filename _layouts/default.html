@@ -37,6 +37,27 @@ layout: compress
   h1, h2, h3, h4, h5, h6 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   }
+
+  /* 恢复之前的蓝灰主题色，并仅把 Publications 里的名字设为纯黑 */
+  body,
+  .page__content,
+  .page__content p,
+  .page__content li,
+  .page__content a {
+    color: #7a8288 !important;
+  }
+
+  .page__content a:hover,
+  .page__content a:focus {
+    color: #224b8d !important;
+  }
+
+  .page__content strong u span[style*="color: #000000;"],
+  .page__content strong>u>span[style*="color: #000000;"],
+  .page__content u span[style*="color: #000000;"],
+  .page__content span[style*="color: #000000;"] {
+    color: #000000 !important;
+  }
 </style>
   </head>
 
