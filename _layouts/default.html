@@ -9,54 +9,21 @@ layout: compress
     {% include head/custom.html %}
     <!-- <link rel="stylesheet" href="{{ '/assets/css/custom.scss' | relative_url }}"> -->
      <style>
-  /* 全局字体缩小 */
+  /* 全局字体放大 */
   html {
-    font-size: 17px !important; /* 基准字号 */
+    font-size: 18px !important; /* 基准字号 */
   }
   
   /* 移动端适配 */
   @media (max-width: 768px) {
     html {
-      font-size: 15px !important;
+      font-size: 16px !important;
     }
   }
   
   /* 修正特殊元素 */
   code, pre {
     font-size: 0.9em !important;
-  }
-
-  /* 强制使用 Helvetica */
-  body,
-  body p,
-  body li,
-  body a,
-  body button,
-  .page__content,
-  .page__title,
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  }
-
-  /* 恢复之前的蓝灰主题色，并仅把 Publications 里的名字设为纯黑 */
-  body,
-  .page__content,
-  .page__content p,
-  .page__content li,
-  .page__content a {
-    color: #7a8288 !important;
-  }
-
-  .page__content a:hover,
-  .page__content a:focus {
-    color: #224b8d !important;
-  }
-
-  .page__content strong u span[style*="color: #000000;"],
-  .page__content strong>u>span[style*="color: #000000;"],
-  .page__content u span[style*="color: #000000;"],
-  .page__content span[style*="color: #000000;"] {
-    color: #000000 !important;
   }
 </style>
   </head>
