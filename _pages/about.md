@@ -44,9 +44,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - **BSc Artificial Intelligence**  
   *University of Jinan* -->
 
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-
-  <div style="flex: 1; margin-right: 1px;">
+  <div style="margin-top: 20px;">
     <h2>🔮 Research Interests</h2>
     <ul>
       <li><strong>Electronic Design Automation (EDA)</strong></li>
@@ -54,17 +52,6 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
       <li><strong>Statistical Machine Learning</strong></li>
     </ul>
   </div>
-
-  <div style="flex: 1; margin-left: 1px;">
-    <h2>🎓 Education</h2>
-    <ul>
-      <li><strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em></li>
-      <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
-      <li><strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em></li>
-    </ul>
-  </div>
-
-</div>
 
 
 
@@ -98,9 +85,17 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 </div>
 </div> -->
 
-- [C8] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2026</span> **<u>Yanfang Liu</u>**, Zijin Cheng, Mingjun Wang, Rongliang Fu, Chao Wang, Bei Yu. LibPilot: Knowledge-Constrained Dual-Agent Reasoning for Standard Cell Library Tuning, International Conference on Computer Aided Design (ICCAD), San Jose, California, USA, Nov. 8–12, 2026.
+- [C8] <span style="background-color:rgb(236, 132, 182); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2026</span> **<u>Yanfang Liu</u>**, Zijin Cheng, Mingjun Wang, Rongliang Fu, Chao Wang, Bei Yu. LibPilot: Knowledge-Constrained Dual-Agent Reasoning for Standard Cell Library Tuning, International Conference on Computer Aided Design (ICCAD), San Jose, California, USA, Nov. 8–12, 2026.
 
-- [C7] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification, International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026.
+<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
+  <a href="_pages/paper/ICCAD2026.pdf" style="text-decoration: none;">
+    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
+      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
+  </a>
+</div>
+
+- [C7] <span style="background-color:rgb(236, 132, 182); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification, International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ICML2026.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -114,7 +109,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a>
 </div>
 
-- [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://ieeexplore.ieee.org/abstract/document/10993100), 2025 Design, Automation & Test in Europe Conference (DATE), Lyon, France, 2025.
+- [C6] <span style="background-color:rgb(236, 132, 182); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://ieeexplore.ieee.org/abstract/document/10993100), 2025 Design, Automation & Test in Europe Conference (DATE), Lyon, France, 2025.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -152,7 +147,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a>
 </div> -->
 
-- [C5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> **<u>Yanfang Liu</u>**, Lei He, Wei W. Xing. [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://dl.acm.org/doi/abs/10.1145/3676536.3676672), 2024 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New York, NY, USA.
+- [C5] <span style="background-color:rgb(236, 132, 182); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> **<u>Yanfang Liu</u>**, Lei He, Wei W. Xing. [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://dl.acm.org/doi/abs/10.1145/3676536.3676672), 2024 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New York, NY, USA.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ICCAD2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -171,7 +166,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a> -->
 </div>
 
-- [C4] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024.
+- [C4] <span style="background-color:rgb(236, 132, 182); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ASP-DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -190,12 +185,17 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a> -->
 </div>
 
-- [C3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> <span style="color:red;">(Best Paper Nomination)</span> **<u>Yanfang Liu</u>**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing. [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10323689), 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023.
+- [C3] <span style="background-color:rgb(236, 132, 182); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> <span style="color:red;">(Best Paper Nomination)</span> **<u>Yanfang Liu</u>**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing. [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10323689), 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ICCAD2023.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
+  </a>
+  <a href="_pages/paper/best_paper_nomination.png" style="text-decoration: none;">
+    <button style="border: 1px solid #d9534f; color: #ffffff; background-color: #d9534f; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
+      onmouseover="this.style.backgroundColor='#c9302c'; this.style.color='white';"
+      onmouseout="this.style.backgroundColor='#d9534f'; this.style.color='white';">BPN Award</button>
   </a>
   <a href="_pages/paper/ICCAD2023.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -209,7 +209,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a>
 </div>
 
-- [C2] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> **<u>Yanfang Liu</u>**, Guohao Dai, Wei W. Xing. [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023.
+- [C2] <span style="background-color:rgb(236, 132, 182); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2023</span> **<u>Yanfang Liu</u>**, Guohao Dai, Wei W. Xing. [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -228,7 +228,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a>
 </div>
 
-- [C1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> Wei W. Xing, **<u>Yanfang Liu</u>**, Weijian Fan, Lei He. [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), 2024 61st ACM/IEEE Design Automation Conference (DAC). New York, NY, USA, 2024.
+- [C1] <span style="background-color:rgb(236, 132, 182); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2024</span> Wei W. Xing, **<u>Yanfang Liu</u>**, Weijian Fan, Lei He. [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), 2024 61st ACM/IEEE Design Automation Conference (DAC). New York, NY, USA, 2024.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -246,6 +246,11 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
   </a>
 </div>
+
+# 🎓 Education
+- <strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em>
+- <strong>MEng Electronic Information</strong><br><em>Beihang University</em>
+- <strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em>
 
 <!-- ## Journal Paper 👇 -->
 
