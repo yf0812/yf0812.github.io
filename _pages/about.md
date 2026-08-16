@@ -73,6 +73,12 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 ## Conference Paper
 
+<p><strong>Note:</strong>
+<span style="background-color:#ea8ac8; color:#ffffff; padding:1px 6px; border-radius:3px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-A</span>
+<span style="background-color:#5fa8e6; color:#ffffff; padding:1px 6px; border-radius:3px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-B</span>
+<span style="background-color:#a8d63a; color:#ffffff; padding:1px 6px; border-radius:3px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-C</span>
+</p>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,7 +101,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a>
 </div>
 
-- [C7] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](https://icml.cc/virtual/2026/poster/62139), International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026.
+- [C7] <span style="background-color:#ea8ac8; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](https://icml.cc/virtual/2026/poster/62139), International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ICML2026.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -166,7 +172,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a> -->
 </div>
 
-- [C4] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ASP-DAC 2024</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024.
+- [C4] <span style="background-color:#a8d63a; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ASP-DAC 2024</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ASP-DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -209,7 +215,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a>
 </div>
 
-- [C2] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">DAC 2023</span> **<u>Yanfang Liu</u>**, Guohao Dai, Wei W. Xing. [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023.
+- [C2] <span style="background-color:#ea8ac8; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">DAC 2023</span> **<u>Yanfang Liu</u>**, Guohao Dai, Wei W. Xing. [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -228,7 +234,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   </a>
 </div>
 
-- [C1] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">DAC 2024</span> Wei W. Xing, **<u>Yanfang Liu</u>**, Weijian Fan, Lei He. [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), 2024 61st ACM/IEEE Design Automation Conference (DAC). New York, NY, USA, 2024.
+- [C1] <span style="background-color:#ea8ac8; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">DAC 2024</span> Wei W. Xing, **<u>Yanfang Liu</u>**, Weijian Fan, Lei He. [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), 2024 61st ACM/IEEE Design Automation Conference (DAC). New York, NY, USA, 2024.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DAC2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
