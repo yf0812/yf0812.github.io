@@ -71,13 +71,13 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 # 📝 Publications 
 
-## Conference Paper
-
 <p><strong>Note:</strong>
-<span style="background-color:#ea8ac8; color:#ffffff; padding:1px 6px; border-radius:3px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-A</span>
-<span style="background-color:#5fa8e6; color:#ffffff; padding:1px 6px; border-radius:3px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-B</span>
-<span style="background-color:#a8d63a; color:#ffffff; padding:1px 6px; border-radius:3px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-C</span>
+<span style="background-color:#ea8ac8; color:#ffffff; padding:0px 5px; border-radius:3px; font-size:11px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-A</span>
+<span style="background-color:#5fa8e6; color:#ffffff; padding:0px 5px; border-radius:3px; font-size:11px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-B</span>
+<span style="background-color:#a8d63a; color:#ffffff; padding:0px 5px; border-radius:3px; font-size:11px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-C</span>
 </p>
+
+## Conference Paper
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
