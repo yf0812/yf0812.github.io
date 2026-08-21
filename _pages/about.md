@@ -56,6 +56,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 MigSizer has been accepted by ICCD 2026!
 - *2026.07*: &nbsp;🎉 LibPilot has been accepted by ICCAD 2026!
 - *2026.05*: &nbsp;🎉 AnalogVerifier has been accepted by ICML 2026!
 - *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB)
@@ -90,6 +91,8 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+- [C9] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICCD 2026</span> **<u>Yanfang Liu</u>**, Peng Xu, Yapeng Li, Mingjun Wang, Leilei Jin, Rongliang Fu, Tinghuan Chen, Wei Xing, Bei Yu, Tsung-Yi Ho. MigSizer: Physical-aware Sizing Improving Analog/RF Circuit Migration. International Conference on Computer Design (ICCD), Hong Kong, Nov. 16–18, 2026.
 
 - [C8] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICCAD 2026</span> **<u>Yanfang Liu</u>**, Zijin Cheng, Mingjun Wang, Rongliang Fu, Chao Wang, Bei Yu. LibPilot: Knowledge-Constrained Dual-Agent Reasoning for Standard Cell Library Tuning, International Conference on Computer Aided Design (ICCAD), San Jose, California, USA, Nov. 8–12, 2026.
 
