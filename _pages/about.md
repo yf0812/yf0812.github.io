@@ -92,169 +92,23 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 </div>
 </div> -->
 
-- [C9] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICCD 2026</span> **<u>Yanfang Liu</u>**, Peng Xu, Yapeng Li, Mingjun Wang, Leilei Jin, Rongliang Fu, Tinghuan Chen, Wei Xing, Bei Yu, Tsung-Yi Ho. MigSizer: Physical-aware Sizing Improving Analog/RF Circuit Migration. International Conference on Computer Design (ICCD), Hong Kong, Nov. 16–18, 2026.
+- [C9] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCD 2026</span> **<u>Yanfang Liu</u>**, Peng Xu, Yapeng Li, Mingjun Wang, Leilei Jin, Rongliang Fu, Tinghuan Chen, Wei Xing, Bei Yu, Tsung-Yi Ho. MigSizer: Physical-aware Sizing Improving Analog/RF Circuit Migration. International Conference on Computer Design (ICCD), Hong Kong, Nov. 16–18, 2026.
 
-- [C8] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICCAD 2026</span> **<u>Yanfang Liu</u>**, Zijin Cheng, Mingjun Wang, Rongliang Fu, Chao Wang, Bei Yu. LibPilot: Knowledge-Constrained Dual-Agent Reasoning for Standard Cell Library Tuning, International Conference on Computer Aided Design (ICCAD), San Jose, California, USA, Nov. 8–12, 2026.
+- [C8] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCAD 2026</span> **<u>Yanfang Liu</u>**, Zijin Cheng, Mingjun Wang, Rongliang Fu, Chao Wang, Bei Yu. LibPilot: Knowledge-Constrained Dual-Agent Reasoning for Standard Cell Library Tuning, International Conference on Computer Aided Design (ICCAD), San Jose, California, USA, Nov. 8–12, 2026. <a href="_pages/paper/ICCAD2026.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a>
 
-<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/ICCAD2026.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
-  </a>
-</div>
+- [C7] <span style="background-color:#ea8ac8; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](https://icml.cc/virtual/2026/poster/62139), International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026. <a href="_pages/paper/ICML2026.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/ICML2026Poster.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Poster</button></a>
 
-- [C7] <span style="background-color:#ea8ac8; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICML 2026</span> **<u>Yanfang Liu</u>**, Mingjun Wang, Peng Xu, Rongliang Fu, Bei Yu, Tsung-Yi Ho. [AnalogVerifier: A Neuro-Symbolic Framework for Analog Circuit Verification](https://icml.cc/virtual/2026/poster/62139), International Conference on Machine Learning (ICML), Seoul, Jul. 6–11, 2026.
-<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/ICML2026.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
-  </a>
-  <a href="_pages/paper/ICML2026Poster.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Poster</button>
-  </a>
-</div>
+- [C6] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">DATE 2025</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://ieeexplore.ieee.org/abstract/document/10993100), 2025 Design, Automation & Test in Europe Conference (DATE), Lyon, France, 2025. <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/DATE2025.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/6DrQbjT2kXI" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
 
-- [C6] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">DATE 2025</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://ieeexplore.ieee.org/abstract/document/10993100), 2025 Design, Automation & Test in Europe Conference (DATE), Lyon, France, 2025.
-<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
-  </a>
-  <!-- <a href="your-citation-link.bib" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a> -->
-  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
-  </a> -->
-  <a href="_pages/paper/DATE2025.bib" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a>
-    <a href="https://youtu.be/6DrQbjT2kXI" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
-  </a>
-</div>
+- [C5] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCAD 2024</span> **<u>Yanfang Liu</u>**, Lei He, Wei W. Xing. [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://dl.acm.org/doi/abs/10.1145/3676536.3676672), 2024 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New York, NY, USA. <a href="_pages/paper/ICCAD2024.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/ICCAD2024.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a>
 
-<!-- <div style="margin-top: 10px;">
-  <a href="https://example.com/article.pdf" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer;">PDF</button>
-  </a>
-  <a href="https://example.com/article.bib" style="text-decoration: none;">
-    <button style="background-color:rgb(255, 155, 6); color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer;">Cite</button>
-  </a>
-</div> -->
+- [C4] <span style="background-color:#a8d63a; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ASP-DAC 2024</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024. <a href="_pages/paper/ASP-DAC2024.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/ASP-DAC2024.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a>
 
-- [C5] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICCAD 2024</span> **<u>Yanfang Liu</u>**, Lei He, Wei W. Xing. [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://dl.acm.org/doi/abs/10.1145/3676536.3676672), 2024 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New York, NY, USA.
-<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/ICCAD2024.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
-  </a>
-  <a href="_pages/paper/ICCAD2024.bib" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a>
-  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
-  </a> -->
-</div>
+- [C3] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCAD 2023</span> <span style="background-color:#d9534f; color:#ffffff; padding:0px 5px; border-radius:3px; font-size:1em; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height:1.2;">Best Paper Nomination Award</span> **<u>Yanfang Liu</u>**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing. [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10323689), 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023. <a href="_pages/paper/ICCAD2023.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/ICCAD2023.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/EQ50eG3W36Y" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
 
-- [C4] <span style="background-color:#a8d63a; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ASP-DAC 2024</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024.
-<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/ASP-DAC2024.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
-  </a>
-  <a href="_pages/paper/ASP-DAC2024.bib" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a>
-  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
-  </a> -->
-</div>
+- [C2] <span style="background-color:#ea8ac8; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">DAC 2023</span> **<u>Yanfang Liu</u>**, Guohao Dai, Wei W. Xing. [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023. <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/DAC2023.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/58vpAHg66Lc" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
 
-- [C3] <span style="background-color:#5fa8e6; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">ICCAD 2023</span> <span style="color:red;">(Best Paper Nomination)</span> **<u>Yanfang Liu</u>**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing. [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10323689), 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023.
-<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/ICCAD2023.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
-  </a>
-  <a href="_pages/paper/best_paper_nomination.png" style="text-decoration: none;">
-    <button style="border: 1px solid #d9534f; color: #ffffff; background-color: #d9534f; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#c9302c'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='#d9534f'; this.style.color='white';">BPN Award</button>
-  </a>
-  <a href="_pages/paper/ICCAD2023.bib" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a>
-  <a href="https://youtu.be/EQ50eG3W36Y" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
-  </a>
-</div>
-
-- [C2] <span style="background-color:#ea8ac8; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">DAC 2023</span> **<u>Yanfang Liu</u>**, Guohao Dai, Wei W. Xing. [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023.
-<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
-  </a>
-  <a href="_pages/paper/DAC2023.bib" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a>
-  <a href="https://youtu.be/58vpAHg66Lc" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
-  </a>
-</div>
-
-- [C1] <span style="background-color:#ea8ac8; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.2px;">DAC 2024</span> Wei W. Xing, **<u>Yanfang Liu</u>**, Weijian Fan, Lei He. [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), 2024 61st ACM/IEEE Design Automation Conference (DAC). New York, NY, USA, 2024.
-<div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="_pages/paper/DAC2024.pdf" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button>
-  </a>
-  <a href="_pages/paper/DAC2024.bib" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a>
-  <a href="https://youtu.be/ZJqte7cuPhk" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
-  </a>
-</div>
+- [C1] <span style="background-color:#ea8ac8; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">DAC 2024</span> Wei W. Xing, **<u>Yanfang Liu</u>**, Weijian Fan, Lei He. [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), 2024 61st ACM/IEEE Design Automation Conference (DAC). New York, NY, USA, 2024. <a href="_pages/paper/DAC2024.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/DAC2024.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/ZJqte7cuPhk" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
 
 # 🎓 Education
 - <strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em>
