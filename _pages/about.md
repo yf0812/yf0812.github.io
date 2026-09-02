@@ -78,6 +78,51 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 <span style="background-color:#a8d63a; color:#ffffff; padding:0px 5px; border-radius:3px; font-size:11px; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif;">CCF-C</span>
 </p>
 
+<style>
+  .publication-filter {
+    display: inline-flex;
+    margin: 0 0 1rem;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+
+  .publication-filter-button {
+    padding: 5px 14px;
+    border: 0;
+    background: #ffffff;
+    color: #007bff;
+    cursor: pointer;
+    font: inherit;
+    font-size: 0.9em;
+    line-height: 1.2;
+  }
+
+  .publication-filter-button + .publication-filter-button {
+    border-left: 1px solid #007bff;
+  }
+
+  .publication-filter-button:hover,
+  .publication-filter-button:focus-visible {
+    background: #eaf4ff;
+  }
+
+  .publication-filter-button[aria-pressed="true"] {
+    background: #007bff;
+    color: #ffffff;
+  }
+
+  .publication-filter-button:focus-visible {
+    outline: 2px solid #004b9b;
+    outline-offset: -3px;
+  }
+</style>
+
+<div class="publication-filter" role="group" aria-label="Filter publications">
+  <button type="button" class="publication-filter-button" data-publication-filter="selected" aria-pressed="true" aria-controls="selected-publications additional-publications">Selected</button>
+  <button type="button" class="publication-filter-button" data-publication-filter="full" aria-pressed="false" aria-controls="selected-publications additional-publications">Full</button>
+</div>
+
 ## Conference Paper
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -91,6 +136,8 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+<div id="selected-publications" class="publication-list" markdown="1">
 
 - [C9] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCD 2026</span> **<u>Yanfang Liu</u>**, Peng Xu, Yapeng Li, Mingjun Wang, Leilei Jin, Rongliang Fu, Tinghuan Chen, Wei Xing, Bei Yu, Tsung-Yi Ho. MigSizer: Physical-aware Sizing Improving Analog/RF Circuit Migration. International Conference on Computer Design (ICCD), Hong Kong, Nov. 16–18, 2026.
 
@@ -108,7 +155,41 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 - [C2] <span style="background-color:#ea8ac8; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">DAC 2023</span> **<u>Yanfang Liu</u>**, Guohao Dai, Wei W. Xing. [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023. <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/DAC2023.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/58vpAHg66Lc" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
 
+</div>
+
+<div id="additional-publications" class="publication-list" markdown="1" hidden>
+
 - [C1] <span style="background-color:#ea8ac8; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">DAC 2024</span> Wei W. Xing, **<u>Yanfang Liu</u>**, Weijian Fan, Lei He. [Every Failure Is A Lesson: Utilizing All Failure Samples To Deliver Tuning-Free Efficient Yield Evaluation](https://dl.acm.org/doi/abs/10.1145/3649329.3657381), 2024 61st ACM/IEEE Design Automation Conference (DAC). New York, NY, USA, 2024. <a href="_pages/paper/DAC2024.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/DAC2024.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/ZJqte7cuPhk" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
+
+</div>
+
+<script>
+  (function () {
+    var buttons = document.querySelectorAll('[data-publication-filter]');
+    var additionalPublications = document.getElementById('additional-publications');
+
+    if (!buttons.length || !additionalPublications) return;
+
+    function setPublicationFilter(filter) {
+      additionalPublications.hidden = filter !== 'full';
+
+      buttons.forEach(function (button) {
+        button.setAttribute(
+          'aria-pressed',
+          button.getAttribute('data-publication-filter') === filter ? 'true' : 'false'
+        );
+      });
+    }
+
+    buttons.forEach(function (button) {
+      button.addEventListener('click', function () {
+        setPublicationFilter(button.getAttribute('data-publication-filter'));
+      });
+    });
+
+    setPublicationFilter('selected');
+  })();
+</script>
 
 # 🎓 Education
 - <strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em>
