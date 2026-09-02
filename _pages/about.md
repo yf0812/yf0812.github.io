@@ -65,7 +65,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - *2024.06*: &nbsp;🎉 VIS has been accepted by ICCAD 2024!
 - *2024.02*: &nbsp;🎉 EFAIL has been accepted by DAC 2024!
 - *2023.09*: &nbsp;🎉 CIS has been accepted by ASP-DAC 2024!
-- *2023.11*: &nbsp;🎉✨ OPT get Best Paper Nomination Award!!
+- *2023.11*: &nbsp;🎉✨ OPT received the BPN Award🏆!
 - *2023.07*: &nbsp;🎉 OPT has been accepted by ICCAD 2023!
 - *2023.02*: &nbsp;🎉 OPTIMIS has been accepted by DAC 2023!
 
@@ -81,40 +81,63 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 <style>
   .publication-filter {
     display: inline-flex;
-    margin: 0 0 1rem;
-    border: 1px solid #007bff;
-    border-radius: 5px;
-    overflow: hidden;
+    gap: 4px;
+    margin: 0.15rem 0 1.1rem;
+    padding: 4px;
+    border: 1px solid rgba(36, 113, 210, 0.18);
+    border-radius: 999px;
+    background: linear-gradient(135deg, #f7faff 0%, #edf5ff 100%);
+    box-shadow: 0 5px 16px rgba(32, 92, 160, 0.12);
   }
 
   .publication-filter-button {
-    padding: 5px 14px;
+    min-width: 104px;
+    padding: 8px 18px;
     border: 0;
-    background: #ffffff;
-    color: #007bff;
+    border-radius: 999px;
+    background: transparent;
+    color: #48647f;
     cursor: pointer;
     font: inherit;
     font-size: 0.9em;
+    font-weight: 700;
     line-height: 1.2;
-  }
-
-  .publication-filter-button + .publication-filter-button {
-    border-left: 1px solid #007bff;
+    letter-spacing: 0.01em;
+    transition: color 160ms ease, background 160ms ease, box-shadow 160ms ease, transform 160ms ease;
   }
 
   .publication-filter-button:hover,
   .publication-filter-button:focus-visible {
-    background: #eaf4ff;
+    background: rgba(255, 255, 255, 0.78);
+    color: #1168c7;
   }
 
   .publication-filter-button[aria-pressed="true"] {
-    background: #007bff;
+    background: linear-gradient(135deg, #1e88e5 0%, #466fe5 100%);
     color: #ffffff;
+    box-shadow: 0 4px 10px rgba(34, 105, 202, 0.3);
+  }
+
+  .publication-filter-button:active {
+    transform: scale(0.97);
   }
 
   .publication-filter-button:focus-visible {
-    outline: 2px solid #004b9b;
-    outline-offset: -3px;
+    outline: 2px solid #1559a6;
+    outline-offset: 2px;
+  }
+
+  @media (max-width: 480px) {
+    .publication-filter-button {
+      min-width: 94px;
+      padding: 7px 14px;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .publication-filter-button {
+      transition: none;
+    }
   }
 </style>
 
@@ -151,7 +174,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 - [C4] <span style="background-color:#a8d63a; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ASP-DAC 2024</span> **<u>Yanfang Liu</u>**, Wei W. Xing. [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024. <a href="_pages/paper/ASP-DAC2024.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/ASP-DAC2024.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a>
 
-- [C3] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCAD 2023</span> <span style="background-color:#d9534f; color:#ffffff; padding:0px 5px; border-radius:3px; font-size:1em; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height:1.2;">Best Paper Nomination Award</span> **<u>Yanfang Liu</u>**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing. [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10323689), 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023. <a href="_pages/paper/ICCAD2023.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/ICCAD2023.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/EQ50eG3W36Y" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
+- [C3] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCAD 2023</span> <span style="background-color:#d9534f; color:#ffffff; padding:0px 5px; border-radius:3px; font-size:1em; font-weight:700; font-family:'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height:1.2;">BPN Award🏆</span> **<u>Yanfang Liu</u>**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing. [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10323689), 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023. <a href="_pages/paper/ICCAD2023.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/ICCAD2023.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/EQ50eG3W36Y" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
 
 - [C2] <span style="background-color:#ea8ac8; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">DAC 2023</span> **<u>Yanfang Liu</u>**, Guohao Dai, Wei W. Xing. [Seeking the yield barrier: High-dimensional sram evaluation through optimal manifold](https://ieeexplore.ieee.org/abstract/document/10247952), 2023 60th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2023. <a href="_pages/paper/DAC2023.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> <a href="_pages/paper/DAC2023.bib" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button></a> <a href="https://youtu.be/58vpAHg66Lc" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button></a>
 
@@ -166,12 +189,45 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 <script>
   (function () {
     var buttons = document.querySelectorAll('[data-publication-filter]');
+    var selectedPublications = document.getElementById('selected-publications');
     var additionalPublications = document.getElementById('additional-publications');
 
-    if (!buttons.length || !additionalPublications) return;
+    if (!buttons.length || !selectedPublications || !additionalPublications) return;
+
+    function setPublicationNumbers(filter) {
+      var publicationItems = Array.prototype.slice.call(
+        selectedPublications.querySelectorAll('li')
+      );
+
+      if (filter === 'full') {
+        publicationItems = publicationItems.concat(
+          Array.prototype.slice.call(additionalPublications.querySelectorAll('li'))
+        );
+      }
+
+      publicationItems.forEach(function (item, index) {
+        var number = publicationItems.length - index;
+        var numberNode;
+        var numberContainer = item.querySelector('p') || item;
+
+        Array.prototype.some.call(numberContainer.childNodes, function (node) {
+          if (node.nodeType === 3 && /\[C\d+\]/.test(node.nodeValue)) {
+            numberNode = node;
+            return true;
+          }
+
+          return false;
+        });
+
+        if (numberNode) {
+          numberNode.nodeValue = numberNode.nodeValue.replace(/\[C\d+\]/, '[C' + number + ']');
+        }
+      });
+    }
 
     function setPublicationFilter(filter) {
       additionalPublications.hidden = filter !== 'full';
+      setPublicationNumbers(filter);
 
       buttons.forEach(function (button) {
         button.setAttribute(
