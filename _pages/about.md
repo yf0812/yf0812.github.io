@@ -56,6 +56,9 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 
 # 🔥 News
+
+<div class="news-scroll" role="region" aria-label="News archive" tabindex="0" markdown="1">
+
 - *2026.08*: &nbsp;🎉 MigSizer has been accepted by ICCD 2026!
 - *2026.07*: &nbsp;🎉 LibPilot has been accepted by ICCAD 2026!
 - *2026.05*: &nbsp;🎉 AnalogVerifier has been accepted by ICML 2026!
@@ -69,6 +72,8 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - *2023.07*: &nbsp;🎉 OPT has been accepted by ICCAD 2023!
 - *2023.02*: &nbsp;🎉 OPTIMIS has been accepted by DAC 2023!
 
+</div>
+
 
 # 📝 Publications 
 
@@ -79,6 +84,67 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 </p>
 
 <style>
+  .news-scroll {
+    max-height: 14.5rem;
+    margin: 0.35rem 0 1.35rem;
+    padding: 0.65rem 0.95rem 0.55rem 1.1rem;
+    overflow-y: scroll;
+    overscroll-behavior-y: contain;
+    scrollbar-gutter: stable;
+    scrollbar-width: thin;
+    scrollbar-color: #4b86df #e8f0fa;
+    border: 1px solid rgba(54, 112, 184, 0.18);
+    border-left: 3px solid #4b86df;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #ffffff 0%, #f7faff 100%);
+    box-shadow: 0 6px 18px rgba(44, 91, 145, 0.1);
+  }
+
+  .news-scroll ul {
+    margin: 0;
+    padding-left: 1.25rem;
+  }
+
+  .news-scroll li {
+    margin: 0;
+    padding: 0.35rem 0.15rem 0.5rem;
+    line-height: 1.45;
+  }
+
+  .news-scroll li + li {
+    border-top: 1px solid rgba(68, 112, 160, 0.1);
+  }
+
+  .news-scroll li::marker {
+    color: #3978cf;
+  }
+
+  .news-scroll:focus-visible {
+    outline: 2px solid #3978cf;
+    outline-offset: 3px;
+  }
+
+  .news-scroll::-webkit-scrollbar {
+    width: 9px;
+  }
+
+  .news-scroll::-webkit-scrollbar-track {
+    margin: 8px 0;
+    border-radius: 999px;
+    background: #e8f0fa;
+  }
+
+  .news-scroll::-webkit-scrollbar-thumb {
+    min-height: 36px;
+    border: 2px solid #e8f0fa;
+    border-radius: 999px;
+    background: linear-gradient(180deg, #75aaf0 0%, #3978cf 100%);
+  }
+
+  .news-scroll::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(180deg, #5f9bea 0%, #2868bf 100%);
+  }
+
   .publication-filter {
     display: inline-flex;
     gap: 4px;
@@ -132,6 +198,11 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   }
 
   @media (max-width: 480px) {
+    .news-scroll {
+      max-height: 13rem;
+      padding: 0.55rem 0.7rem 0.45rem 0.85rem;
+    }
+
     .publication-filter-button {
       min-width: 94px;
       padding: 6px 14px;
