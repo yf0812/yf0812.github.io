@@ -65,7 +65,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - *2024.06*: &nbsp;🎉 VIS has been accepted by ICCAD 2024!
 - *2024.02*: &nbsp;🎉 EFAIL has been accepted by DAC 2024!
 - *2023.09*: &nbsp;🎉 CIS has been accepted by ASP-DAC 2024!
-- *2023.11*: &nbsp;🎉✨ OPT received the BPN Award🏆!
+- *2023.11*: &nbsp;🎉✨ OPT received the Best Paper Nomination Award🏆!
 - *2023.07*: &nbsp;🎉 OPT has been accepted by ICCAD 2023!
 - *2023.02*: &nbsp;🎉 OPTIMIS has been accepted by DAC 2023!
 
@@ -142,8 +142,8 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 </style>
 
 <div class="publication-filter" role="group" aria-label="Filter publications">
-  <button type="button" class="publication-filter-button" data-publication-filter="selected" aria-pressed="true" aria-controls="selected-publications additional-publications">Selected</button>
-  <button type="button" class="publication-filter-button" data-publication-filter="full" aria-pressed="false" aria-controls="selected-publications additional-publications">Full</button>
+  <button type="button" class="publication-filter-button" data-publication-filter="selected" aria-pressed="true" aria-controls="latest-full-publications selected-publications additional-publications">Selected</button>
+  <button type="button" class="publication-filter-button" data-publication-filter="full" aria-pressed="false" aria-controls="latest-full-publications selected-publications additional-publications">Full</button>
 </div>
 
 ## Conference Paper
@@ -159,6 +159,12 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+<div id="latest-full-publications" class="publication-list" markdown="1" hidden>
+
+- [C10] <span style="background-color:#a8d63a; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ASP-DAC 2027</span> Zhongru Xiong, Mingjun Wang, **<u>Yanfang Liu</u>**, Tsung-Yi Ho, Bei Yu, Binwu Zhu. HOIST: A High-Order Interaction Surrogate for Sample-Efficient High-Sigma Yield Estimation in High-Dimensional Circuits, IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan. 25–28, 2027.
+
+</div>
 
 <div id="selected-publications" class="publication-list" markdown="1">
 
@@ -189,10 +195,11 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 <script>
   (function () {
     var buttons = document.querySelectorAll('[data-publication-filter]');
+    var latestFullPublications = document.getElementById('latest-full-publications');
     var selectedPublications = document.getElementById('selected-publications');
     var additionalPublications = document.getElementById('additional-publications');
 
-    if (!buttons.length || !selectedPublications || !additionalPublications) return;
+    if (!buttons.length || !latestFullPublications || !selectedPublications || !additionalPublications) return;
 
     function setPublicationNumbers(filter) {
       var publicationItems = Array.prototype.slice.call(
@@ -200,7 +207,10 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
       );
 
       if (filter === 'full') {
-        publicationItems = publicationItems.concat(
+        publicationItems = Array.prototype.slice.call(
+          latestFullPublications.querySelectorAll('li')
+        ).concat(
+          publicationItems,
           Array.prototype.slice.call(additionalPublications.querySelectorAll('li'))
         );
       }
@@ -226,7 +236,10 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
     }
 
     function setPublicationFilter(filter) {
-      additionalPublications.hidden = filter !== 'full';
+      var showFull = filter === 'full';
+
+      latestFullPublications.hidden = !showFull;
+      additionalPublications.hidden = !showFull;
       setPublicationNumbers(filter);
 
       buttons.forEach(function (button) {
