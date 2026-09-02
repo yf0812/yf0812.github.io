@@ -164,7 +164,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   }
 
   .publication-list li {
-    margin-bottom: 1.35em;
+    margin-bottom: 1.2em;
   }
 
   .publication-list li > p {
