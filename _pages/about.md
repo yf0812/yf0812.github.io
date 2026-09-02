@@ -88,16 +88,17 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
     max-height: 14.5rem;
     margin: 0.35rem 0 1.35rem;
     padding: 0.65rem 0.95rem 0.55rem 1.1rem;
+    font-size: 0.9em;
     overflow-y: scroll;
     overscroll-behavior-y: contain;
     scrollbar-gutter: stable;
     scrollbar-width: thin;
-    scrollbar-color: #4b86df #e8f0fa;
-    border: 1px solid rgba(54, 112, 184, 0.18);
-    border-left: 3px solid #4b86df;
+    scrollbar-color: #707070 #e8e8e8;
+    border: 1px solid rgba(0, 0, 0, 0.14);
+    border-left: 3px solid #555555;
     border-radius: 12px;
-    background: linear-gradient(145deg, #ffffff 0%, #f7faff 100%);
-    box-shadow: 0 6px 18px rgba(44, 91, 145, 0.1);
+    background: linear-gradient(145deg, #ffffff 0%, #f5f5f5 100%);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   }
 
   .news-scroll ul {
@@ -112,15 +113,27 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   }
 
   .news-scroll li + li {
-    border-top: 1px solid rgba(68, 112, 160, 0.1);
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
   }
 
   .news-scroll li::marker {
-    color: #3978cf;
+    color: #555555;
+  }
+
+  .news-scroll a,
+  .news-scroll a:visited {
+    color: #404040;
+    text-decoration-color: #909090;
+  }
+
+  .news-scroll a:hover,
+  .news-scroll a:focus {
+    color: #111111;
+    text-decoration-color: #111111;
   }
 
   .news-scroll:focus-visible {
-    outline: 2px solid #3978cf;
+    outline: 2px solid #4a4a4a;
     outline-offset: 3px;
   }
 
@@ -131,18 +144,18 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   .news-scroll::-webkit-scrollbar-track {
     margin: 8px 0;
     border-radius: 999px;
-    background: #e8f0fa;
+    background: #e8e8e8;
   }
 
   .news-scroll::-webkit-scrollbar-thumb {
     min-height: 36px;
-    border: 2px solid #e8f0fa;
+    border: 2px solid #e8e8e8;
     border-radius: 999px;
-    background: linear-gradient(180deg, #75aaf0 0%, #3978cf 100%);
+    background: linear-gradient(180deg, #a0a0a0 0%, #666666 100%);
   }
 
   .news-scroll::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(180deg, #5f9bea 0%, #2868bf 100%);
+    background: linear-gradient(180deg, #858585 0%, #444444 100%);
   }
 
   .publication-filter {
