@@ -158,6 +158,19 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
     background: linear-gradient(180deg, #858585 0%, #444444 100%);
   }
 
+  .publication-list > ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .publication-list li {
+    margin-bottom: 1.35em;
+  }
+
+  .publication-list li > p {
+    margin-bottom: 0;
+  }
+
   .publication-filter {
     display: inline-flex;
     gap: 4px;
