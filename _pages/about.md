@@ -82,8 +82,8 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   .publication-filter {
     display: inline-flex;
     gap: 4px;
-    margin: 0.15rem 0 1.1rem;
-    padding: 4px;
+    margin: 0.15rem 0 0.25rem;
+    padding: 3px;
     border: 1px solid rgba(36, 113, 210, 0.18);
     border-radius: 999px;
     background: linear-gradient(135deg, #f7faff 0%, #edf5ff 100%);
@@ -92,7 +92,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
   .publication-filter-button {
     min-width: 104px;
-    padding: 8px 18px;
+    padding: 6px 17px;
     border: 0;
     border-radius: 999px;
     background: transparent;
@@ -127,10 +127,14 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
     outline-offset: 2px;
   }
 
+  .publication-filter + h3 {
+    margin-top: 0.6rem;
+  }
+
   @media (max-width: 480px) {
     .publication-filter-button {
       min-width: 94px;
-      padding: 7px 14px;
+      padding: 6px 14px;
     }
   }
 
@@ -146,7 +150,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   <button type="button" class="publication-filter-button" data-publication-filter="full" aria-pressed="false" aria-controls="latest-full-publications selected-publications additional-publications">Full</button>
 </div>
 
-## Conference Paper
+### Conference Paper
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -260,22 +264,6 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
   })();
 </script>
 
-# 🎓 Education
-- <strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em>
-- <strong>MEng Electronic Information</strong><br><em>Beihang University</em>
-- <strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em>
-
-<!-- ## Journal Paper 👇 -->
-
-<!-- <div style="display: flex; align-items: center;">
-  <div class="badge">CVPR 2016</div>
-  <div>
-    <a href="https://github.com">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet
-    </a>, A, B, C, <strong>CVPR 2020</strong>
-  </div>
-</div> -->
-
 # 🎖 Selected Honors and Awards
 - *2024.10* National Scholarship (Master). 
 - *2023.10* National Scholarship (Master) (Top 1%). 
@@ -294,6 +282,22 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 <!-- - *2020.10* National Scholarship (Undergraduate) (Top 1%).  -->
 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 🎓 Education
+- <strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em>
+- <strong>MEng Electronic Information</strong><br><em>Beihang University</em>
+- <strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em>
+
+<!-- ## Journal Paper 👇 -->
+
+<!-- <div style="display: flex; align-items: center;">
+  <div class="badge">CVPR 2016</div>
+  <div>
+    <a href="https://github.com">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet
+    </a>, A, B, C, <strong>CVPR 2020</strong>
+  </div>
+</div> -->
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
