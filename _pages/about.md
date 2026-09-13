@@ -62,7 +62,7 @@ Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from 
 - *2026.08*: &nbsp;🎉 MigSizer has been accepted by ICCD 2026!
 - *2026.07*: &nbsp;🎉 LibPilot has been accepted by ICCAD 2026!
 - *2026.05*: &nbsp;🎉 AnalogVerifier has been accepted by ICML 2026!
-- *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB)
+<!-- - *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB) -->
 - *2024.11*: &nbsp;🎉 FUSIS paper has been accepted by DATE 2025!
 - *2024.09*: &nbsp;🎯 I will pursue a PhD in Computer Science and Engineering (CSE) at CUHK in August next year!
 - *2024.06*: &nbsp;🎉 VIS has been accepted by ICCAD 2024!
