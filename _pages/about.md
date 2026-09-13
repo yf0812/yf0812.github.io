@@ -367,10 +367,11 @@ Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from 
 - *2020.10* National Scholarship (Undergraduate) (Top 1%). 
 - *2024.11* Outstanding Master's Thesis Award.
 - *2024.11* Beijing Outstanding Graduate.
-- *2024.06* Top Ten Graduate Award (Highest Honor for Graduate Students at Beihang University).
+- *2024.06* Top Ten Graduate Award
+<!-- (Highest Honor for Graduate Students at Beihang University). -->
 <!-- - *2024.04* Outstanding Graduate of Beihang University. -->
 <!-- - *2024.10* Beihang University Merit Student. -->
-- *2024.05* Huawei Scholarship.
+<!-- - *2024.05* Huawei Scholarship. -->
 <!-- - *2024.11* Outstanding Master's Thesis Award. -->
 <!-- - *2023.10* National Scholarship (Master) (Top 1%).  -->
 <!-- - *2023.10* Beihang University Merit Student. -->
