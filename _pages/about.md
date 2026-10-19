@@ -48,9 +48,9 @@ Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from 
     <h2>🔮 Research Interests</h2>
     <ul>
       <!-- <li><strong>Electronic Design Automation (EDA)</strong></li> -->
-      <li><strong>AI for EDA</strong></li>
+      <li><strong>System Automation</strong></li>
       <li><strong>Design Space Exploration</strong></li>
-      <li><strong>Rare Event Analysis</strong></li>
+      <li><strong>Decision Making</strong></li>
     </ul>
   </div>
 
@@ -409,6 +409,3 @@ Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from 
 # 💻 Experiences
 ### The Chinese University of Hong Kong (Shenzhen)
 - *2025.02 - 2025.07*, Visiting
-
-### Peer Reviewer
-- *2025.05* IEEE/ACM TODAES
