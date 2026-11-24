@@ -1,0 +1,35 @@
+#analog-implementation {
+  container-type:inline-size; color-scheme:light; color:#494e52; background:#fff;
+  font:normal 1rem/1.46 "Trebuchet MS",Helvetica,sans-serif;
+}
+#analog-implementation * { box-sizing:border-box; }
+#analog-implementation .ai-section { display:grid; grid-template-columns:minmax(0,1.12fr) minmax(0,.88fr); align-items:center; gap:clamp(14px,3%,30px); max-width:54rem; padding:8px 2px; }
+#analog-implementation h2 { margin:0 0 .65em; font:bold 1.3rem/1.2 "Trebuchet MS",Helvetica,sans-serif; color:inherit; }
+#analog-implementation ul { margin:0; padding-inline-start:1.45em; }
+#analog-implementation li { margin:.3em 0; font-weight:bold; }
+#analog-implementation figure {
+  --panel-height:calc(var(--interests-height, 8.5rem) + 12px);
+  display:block; position:relative;
+  width:min(100%,calc(var(--panel-height) * 1.82)); height:var(--panel-height);
+  margin:0; min-width:0; color:#56605e; background:#fafbf9; border:1px solid #d9ddda;
+  border-radius:9px; overflow:hidden; box-shadow:0 1px 4px #333b3609;
+}
+#analog-implementation .viewport { display:block; width:100%; height:100%; min-height:0; }
+#analog-implementation .motion-switch {
+  position:absolute; right:0; bottom:0; display:grid; place-items:end;
+  width:38px; height:32px; padding:0 5px 5px 0; border:0; border-radius:6px;
+  background:transparent; cursor:pointer;
+}
+#analog-implementation .switch-track {
+  display:block; position:relative; width:27px; height:15px; border-radius:100px;
+  background:#a3aaa6; box-shadow:0 0 0 2px #fafbf9;
+}
+#analog-implementation .switch-track::after {
+  content:""; position:absolute; top:2px; left:2px; width:11px; height:11px;
+  background:#fff; border-radius:50%; box-shadow:0 1px 2px #26343033;
+}
+#analog-implementation .motion-switch[aria-checked="true"] .switch-track { background:#48776a; }
+#analog-implementation .motion-switch[aria-checked="true"] .switch-track::after { transform:translateX(12px); }
+#analog-implementation .motion-switch:focus-visible { outline:2px solid #52685e; outline-offset:-2px; }
+@container (max-width:540px) { #analog-implementation .ai-section { grid-template-columns:1fr; gap:10px; } }
+@media(pointer:coarse) { #analog-implementation .motion-switch { width:44px; height:44px; } }

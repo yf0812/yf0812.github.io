@@ -44,15 +44,21 @@ Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from 
 - **BSc Artificial Intelligence**  
   *University of Jinan* -->
 
-  <div style="margin-top: 20px;">
-    <h2>🔮 Research Interests</h2>
-    <ul>
-      <!-- <li><strong>Electronic Design Automation (EDA)</strong></li> -->
-      <li><strong>AI for EDA (mainly focus on Analog and SRAM)</strong></li>
-      <li><strong>Design Space Exploration</strong></li>
-      <li><strong>Rare Event Analysis</strong></li>
-    </ul>
-  </div>
+<link rel="stylesheet" href="assets/css/analog-animation.css">
+<div id="analog-implementation" style="margin-top: 20px;">
+  <section class="ai-section" aria-labelledby="ai-heading">
+    <div>
+      <h2 id="ai-heading">🔮 Research Interests</h2>
+      <ul>
+        <!-- <li><strong>Electronic Design Automation (EDA)</strong></li> -->
+        <li><strong>AI for EDA (mainly focus on Analog and SRAM)</strong></li>
+        <li><strong>Design Space Exploration</strong></li>
+        <li><strong>Rare Event Analysis</strong></li>
+      </ul>
+    </div>
+    {% include analog-animation.html %}
+  </section>
+</div>
 
 
 
