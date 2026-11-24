@@ -23,13 +23,13 @@ I am currently a Ph.D. candidate in Computer Science and Engineering at [The Chi
 <!-- Her research focuses on [briefly state your research area, e.g., "computer-aided design for integrated circuits" or "algorithmic optimization in electronic design automation"]. -->
 Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/) and [Prof. Yue Zhang](https://shi.buaa.edu.cn/yuezhang/zh_CN/index.htm).
 
-<!-- <div style="margin-top: 10px;">
+<div style="margin-top: 10px;">
   <a href="/cv/Yanfang_CV.pdf" style="text-decoration: none;">
     <button style="background-color: #333333; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 14px;">
       📄 Download CV
     </button>
   </a>
-</div> -->
+</div>
 
 <!-- ## Interests  
 - **Artificial Intelligence**  
@@ -48,9 +48,9 @@ Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from 
     <h2>🔮 Research Interests</h2>
     <ul>
       <!-- <li><strong>Electronic Design Automation (EDA)</strong></li> -->
-      <li><strong>System Automation</strong></li>
+      <li><strong>AI for EDA (mainly focus on Analog and SRAM)</strong></li>
       <li><strong>Design Space Exploration</strong></li>
-      <li><strong>Decision Making</strong></li>
+      <li><strong>Rare Event Analysis</strong></li>
     </ul>
   </div>
 
@@ -60,10 +60,10 @@ Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from 
 
 <div class="news-scroll" role="region" aria-label="News archive" tabindex="0" markdown="1">
 
-<!-- - *2026.08*: &nbsp;🎉 MigSizer has been accepted by ICCD 2026! -->
+- *2026.08*: &nbsp;🎉 MigSizer has been accepted by ICCD 2026!
 - *2026.07*: &nbsp;🎉 LibPilot has been accepted by ICCAD 2026!
 - *2026.05*: &nbsp;🎉 AnalogVerifier has been accepted by ICML 2026!
-<!-- - *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB) -->
+- *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB)
 - *2024.11*: &nbsp;🎉 FUSIS paper has been accepted by DATE 2025!
 - *2024.09*: &nbsp;🎯 I will pursue a PhD in Computer Science and Engineering (CSE) at CUHK in August next year!
 - *2024.06*: &nbsp;🎉 VIS has been accepted by ICCAD 2024!
@@ -264,13 +264,13 @@ Prior to joining CUHK, I obtained my M.S. degree in Electronic Information from 
 
 <div id="latest-full-publications" class="publication-list" markdown="1" hidden>
 
-<!-- - [C10] <span style="background-color:#a8d63a; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ASP-DAC 2027</span> Zhongru Xiong, Mingjun Wang, **<u>Yanfang Liu</u>**, Tsung-Yi Ho, Bei Yu, Binwu Zhu. HOIST: A High-Order Interaction Surrogate for Sample-Efficient High-Sigma Yield Estimation in High-Dimensional Circuits, IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan. 25–28, 2027. <a href="_pages/paper/ASPDAC27_HOIST_zhongru.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> -->
+- [C10] <span style="background-color:#a8d63a; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ASP-DAC 2027</span> Zhongru Xiong, Mingjun Wang, **<u>Yanfang Liu</u>**, Tsung-Yi Ho, Bei Yu, Binwu Zhu. HOIST: A High-Order Interaction Surrogate for Sample-Efficient High-Sigma Yield Estimation in High-Dimensional Circuits, IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan. 25–28, 2027. <a href="_pages/paper/ASPDAC27_HOIST_zhongru.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a>
 
 </div>
 
 <div id="selected-publications" class="publication-list" markdown="1">
 
-<!-- - [C9] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCD 2026</span> **<u>Yanfang Liu</u>**, Peng Xu, Yapeng Li, Mingjun Wang, Leilei Jin, Rongliang Fu, Tinghuan Chen, Wei Xing, Bei Yu, Tsung-Yi Ho. MigSizer: Physical-aware Sizing Improving Analog/RF Circuit Migration. International Conference on Computer Design (ICCD), Hong Kong, Nov. 16–18, 2026. <a href="_pages/paper/ICCD26_MigSizer_final.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a> -->
+- [C9] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCD 2026</span> **<u>Yanfang Liu</u>**, Peng Xu, Yapeng Li, Mingjun Wang, Leilei Jin, Rongliang Fu, Tinghuan Chen, Wei Xing, Bei Yu, Tsung-Yi Ho. MigSizer: Physical-aware Sizing Improving Analog/RF Circuit Migration. International Conference on Computer Design (ICCD), Hong Kong, Nov. 16–18, 2026. <a href="_pages/paper/ICCD26_MigSizer_final.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a>
 
 - [C8] <span style="background-color:#5fa8e6; color: #ffffff; padding: 0px 5px; border-radius: 3px; font-size: 1em; font-weight: 700; font-family: 'Arial Rounded MT Bold', 'Helvetica Neue', Arial, sans-serif; line-height: 1.2;">ICCAD 2026</span> **<u>Yanfang Liu</u>**, Zijin Cheng, Mingjun Wang, Rongliang Fu, Chao Wang, Bei Yu. LibPilot: Knowledge-Constrained Dual-Agent Reasoning for Standard Cell Library Tuning, International Conference on Computer Aided Design (ICCAD), San Jose, California, USA, Nov. 8–12, 2026. <a href="_pages/paper/ICCAD2026.pdf" style="text-decoration: none;"><button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;" onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';" onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Paper</button></a>
 
